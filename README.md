@@ -48,6 +48,8 @@ Projekt "Postapo" to silnik gry tekstowej RPG, w którym gracz wciela się w pos
 - 🧟‍♂️ Rozbudowa klasy walka i potwór
 - 🗺️ Dodanie klasy mapa, 🛒 sklep
 - 🏆 Rozbudowa systemu zadań
+- stworzyc mapy/poziomy 
+- stworzyc listy potworow przynalzne do danej mapy
 
 ## 📁 Struktura katalogów
 - `core/` - logika gry (gracz, ekwipunek, przedmioty, potwory, walka, zadania)
