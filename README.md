@@ -1,4 +1,5 @@
 # Postapo - Silnik gry tekstowej ☢️🧟‍♂️
+30.07.2025
 
 ## Opis projektu
 Projekt "Postapo" to silnik gry tekstowej RPG, w którym gracz wciela się w postać przetrwałego w świecie postapokaliptycznym. Silnik obsługuje system gracza, ekwipunku, przedmiotów, potworów, walki, zadań oraz logowania zdarzeń. 
