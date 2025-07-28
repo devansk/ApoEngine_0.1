@@ -21,8 +21,8 @@ class Fight:
         for id in self.drop_items:
             item = baza.get_item_by_id(id)
             item_drop_chance = item.get('drop_chance', 0.1) if item else 0.1
-            if random.randint(1,100) <= self.drop_chance * 100:  # Convert drop chance to percentage
-                if random.randint(1,100) <= item_drop_chance * 100:
+            if random.randint(1,100) <= self.drop_chance * 100:  # Check if monster drops items
+                if random.randint(1,100) <= item_drop_chance * 100: # Check if item drops
                     log.log(f"Item {item['name']} dropped from monster {self.monster.get_name()}.", 11)
                     self.player.add_item(id)
 

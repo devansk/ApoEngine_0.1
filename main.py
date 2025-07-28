@@ -57,9 +57,9 @@ def main():
     monster = Monster(1)  # Load monster with ID 1
 
     # Example of starting a fight
-    #fight = Fight(gracz1, monster)
-    #winner = fight.start()
-    quest = Quests().get_quest_by_id(id=2,player=gracz1)  # Get quest with ID 1
+    fight = Fight(gracz1, monster)
+    winner = fight.start()
+    #quest = Quests().get_quest_by_id(quest_id=2,player=gracz1)  # Get quest with ID 1
 
 
 if __name__ == "__main__":

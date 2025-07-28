@@ -206,9 +206,6 @@ class Gracz:
         log.log(f"Zmieniono obrażenia gracza na: {self.damage}", 1)
     
     def add_item(self, item_id, typ=None):
-        """
-        Dodaje item do ekwipunku gracza.
-        """
         inv.add_item(item_id, typ)
         self.eq = inv
     def show_inventory(self):
@@ -222,3 +219,8 @@ class Gracz:
         log.log(f"Ekwipunek gracza {self.name}: {', '.join(inventory_list)}", 4)
         return inventory_list
     
+    def remove_item(self, item_id,quantity=1,typ=None):
+        inv.items_remove(item_id, typ, quantity)
+        self.eq = inv # Aktualizacja ekwipunku po usunięciu itemu
+        #log.log(f"Usunięto {quantity} sztuk itemu o ID {item_id} z ekwipunku gracza {self.name}.", 4)
+        

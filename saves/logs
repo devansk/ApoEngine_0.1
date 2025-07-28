@@ -1,438 +1,193 @@
 
-[10:46][27.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[10:46][27.07.2025][Player] - Gracz Steve został stworzony.
-[10:46][27.07.2025][Player] - Dodano 150 doświadczenia do gracza Steve.
-[10:46][27.07.2025][Player] - Zmieniono doświadczenie gracza na: 51
-[10:46][27.07.2025][Player] - Zmieniono punkty umiejętności gracza na: 5
-[10:46][27.07.2025][Player] - Zmieniono poziom gracza na: 4
-[10:46][27.07.2025][Player] - Zmieniono potrzebne doświadczenie do poziomu na: 219
-[10:46][27.07.2025][Player] - Zmieniono maksymalne zdrowie gracza na: 133
-[10:46][27.07.2025][Player] - Zmieniono zdrowie gracza na: 133
-[10:46][27.07.2025][Player] - Zmieniono atak gracza na: 25
-[10:46][27.07.2025][Player] - Obrażenia gracza Steve zostały zaktualizowane na: 15
+[00:40][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:40][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:40][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:40][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:40][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:40][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:40][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:40][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:40][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:40][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:40][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:40][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:40][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:40][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:40][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:40][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:40][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[10:50][27.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[10:50][27.07.2025][Player] - Gracz Steve został stworzony.
-[10:50][27.07.2025][Player] - Dodano 150 doświadczenia do gracza Steve.
-[10:50][27.07.2025][Player] - Zmieniono doświadczenie gracza na: 51
-[10:50][27.07.2025][Player] - Zmieniono punkty umiejętności gracza na: 5
-[10:50][27.07.2025][Player] - Zmieniono poziom gracza na: 4
-[10:50][27.07.2025][Player] - Zmieniono potrzebne doświadczenie do poziomu na: 219
-[10:50][27.07.2025][Player] - Zmieniono maksymalne zdrowie gracza na: 133
-[10:50][27.07.2025][Player] - Zmieniono zdrowie gracza na: 133
-[10:50][27.07.2025][Player] - Zmieniono atak gracza na: 25
-[10:50][27.07.2025][Player] - Obrażenia gracza Steve zostały zaktualizowane na: 14
+[00:41][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:41][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:41][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:41][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:41][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:41][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:41][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:41][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:41][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:41][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:41][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:41][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:41][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:41][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:41][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:41][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:41][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[10:51][27.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[10:51][27.07.2025][Player] - Gracz Steve został stworzony.
-[10:51][27.07.2025][Player] - Dodano 150 doświadczenia do gracza Steve.
-[10:51][27.07.2025][Player] - Zmieniono doświadczenie gracza na: 51
-[10:51][27.07.2025][Player] - Zmieniono punkty umiejętności gracza na: 5
-[10:51][27.07.2025][Player] - Zmieniono poziom gracza na: 4
-[10:51][27.07.2025][Player] - Zmieniono potrzebne doświadczenie do poziomu na: 219
-[10:51][27.07.2025][Player] - Zmieniono maksymalne zdrowie gracza na: 133
-[10:51][27.07.2025][Player] - Zmieniono zdrowie gracza na: 133
+[00:42][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:42][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:42][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:42][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:42][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:42][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[18:24][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:24][28.07.2025][Player] - Gracz Steve został stworzony.
+[00:42][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:42][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:42][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:42][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:42][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:42][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:42][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:42][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[18:47][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:47][28.07.2025][Player] - Gracz Steve został stworzony.
+[00:44][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:44][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:44][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:44][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:44][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:44][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:44][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:44][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:44][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:44][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:44][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:44][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:44][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:44][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:44][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:44][29.07.2025][Fight] - Item Bandage dropped from monster Forest Wolf.
+[00:44][29.07.2025][Inventory] - Item Bandage is already at max quantity. Item added to new slot.
+[00:44][29.07.2025][Inventory] - Item added to inventory: Bandage
+[00:44][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:44][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[18:51][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:51][28.07.2025][Player] - Gracz Steve został stworzony.
-[18:51][28.07.2025][Monster] - Monster Forest Wolf created with level 2.
-[18:51][28.07.2025][Monster] - Monster Forest Wolf created with level 2.
+[00:45][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:45][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:45][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:45][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:45][29.07.2025][Fight] - Item Bandage dropped from monster Forest Wolf.
+[00:45][29.07.2025][Inventory] - Item Bandage is already at max quantity. Item added to new slot.
+[00:45][29.07.2025][Inventory] - Item added to inventory: Bandage
+[00:45][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:45][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[18:52][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:52][28.07.2025][Player] - Gracz Steve został stworzony.
+[00:45][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:45][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:45][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:45][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:45][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:45][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:45][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:45][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[18:53][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:53][28.07.2025][Player] - Gracz Steve został stworzony.
+[00:48][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:48][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:48][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:48][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:48][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:48][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:48][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:48][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:48][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:48][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:48][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:48][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:48][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:48][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:48][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:48][29.07.2025][Fight] - Item Bandage dropped from monster Forest Wolf.
+[00:48][29.07.2025][Inventory] - Item Bandage is already at max quantity. Item added to new slot.
 
-[18:53][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:53][28.07.2025][Player] - Gracz Steve został stworzony.
+[00:51][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:51][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:51][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:51][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:51][29.07.2025][Fight] - Item Bandage dropped from monster Forest Wolf.
+[00:51][29.07.2025][Inventory] - Item Bandage is already at max quantity. Item added to new slot.
+[00:51][29.07.2025][Inventory] - Item Bandage quantity increased to 2.
+[00:51][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:51][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
 
-[18:54][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:54][28.07.2025][Player] - Gracz Steve został stworzony.
-[18:54][28.07.2025][Monster] - Monster Forest Wolf created with level 2.
-
-[18:56][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[18:56][28.07.2025][Player] - Gracz Steve został stworzony.
-[18:56][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-
-[20:25][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:25][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:25][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-
-[20:26][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:26][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:26][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:26][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:26][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:26][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:26][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:26][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:26][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:26][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:26][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:26][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:26][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:26][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:26][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:26][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:26][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:26][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:26][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:29][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:29][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:29][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:29][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:29][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:29][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:29][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:29][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:29][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:29][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:29][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:29][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:29][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:29][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:29][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:29][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:29][28.07.2025][Fight] - Item Bandage dropped from monster Forest Wolf.
-
-[20:30][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:30][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:30][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:30][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:30][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:30][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:30][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:30][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:30][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:30][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:30][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:30][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:30][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:30][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:30][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:30][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:30][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:30][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:30][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:31][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:31][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:31][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:31][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:31][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:31][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:31][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:31][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:31][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:31][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:31][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:31][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:31][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:31][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:31][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:31][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:31][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:31][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:32][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:32][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:32][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:32][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:32][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:32][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:32][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:32][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:32][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:32][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:32][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:32][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:32][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:32][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:32][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:32][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:32][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:32][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:33][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:33][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:33][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:33][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:33][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:33][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:33][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:33][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:33][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:33][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:33][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:33][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:33][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:33][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:33][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:33][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:33][28.07.2025][Fight] - Item Bandage dropped from monster Forest Wolf.
-[20:33][28.07.2025][Player] - Znaleziono item: Bandage o ID: 0
-[20:33][28.07.2025][Inventory] - Item Bandage quantity increased to 5.
-[20:33][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:33][28.07.2025][Fight] - Item Pistol dropped from monster Forest Wolf.
-[20:33][28.07.2025][Player] - Znaleziono item: Pistol o ID: 1
-[20:33][28.07.2025][Inventory] - Item Pistol is already at max quantity.
-[20:33][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:33][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:34][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:34][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:34][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:34][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:34][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:34][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:34][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:34][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:34][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:34][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:34][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:34][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:34][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:34][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:34][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:34][28.07.2025][Fight] - Item Pistol dropped from monster Forest Wolf.
-[20:34][28.07.2025][Inventory] - Item Pistol is already at max quantity.
-[20:34][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:34][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[20:35][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[20:35][28.07.2025][Player] - Gracz Steve został stworzony.
-[20:35][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[20:35][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[20:35][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[20:35][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[20:35][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[20:35][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[20:35][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[20:35][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[20:35][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[20:35][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[20:35][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[20:35][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[20:35][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[20:35][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[20:35][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[21:36][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:36][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:36][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:36][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[21:36][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[21:36][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[21:36][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[21:36][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[21:36][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[21:36][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[21:36][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[21:36][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[21:36][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[21:36][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[21:36][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[21:36][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[21:36][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[21:37][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:37][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:37][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:37][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
-[21:37][28.07.2025][Player] - Zmieniono zdrowie gracza na: 116
-[21:37][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
-[21:37][28.07.2025][Player] - Zmieniono zdrowie gracza na: 111
-[21:37][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
-[21:37][28.07.2025][Player] - Zmieniono zdrowie gracza na: 106
-[21:37][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
-[21:37][28.07.2025][Player] - Zmieniono zdrowie gracza na: 101
-[21:37][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
-[21:37][28.07.2025][Player] - Zmieniono zdrowie gracza na: 96
-[21:37][28.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
-[21:37][28.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
-[21:37][28.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
-[21:37][28.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
-
-[21:41][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:41][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:41][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:41][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:42][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:42][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:42][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:42][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:43][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:43][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:43][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:43][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:45][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:45][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:45][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:45][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:50][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:50][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:50][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:50][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:50][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:50][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:50][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:50][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:53][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:53][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:53][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:53][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:54][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:54][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:54][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:54][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:54][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:54][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:54][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:54][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[21:54][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:55][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:55][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:55][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:55][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[21:55][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[21:55][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[21:57][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[21:57][28.07.2025][Player] - Gracz Steve został stworzony.
-[21:57][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[21:57][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[21:57][28.07.2025][Quest] - Quest with ID 1 not found, using default values.
-
-[22:03][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:03][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:03][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:03][28.07.2025][Quest] - Loading quests from assets/quests.json.
-
-[22:05][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:05][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:05][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:05][28.07.2025][Quest] - Loading quests from assets/quests.json.
-
-[22:05][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:05][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:05][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:05][28.07.2025][Quest] - Loading quests from assets/quests.json.
-
-[22:06][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:06][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:06][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:06][28.07.2025][Quest] - Loading quests from assets/quests.json.
-
-[22:08][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:08][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:08][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:08][28.07.2025][Quest] - Loading quests from assets/quests.json.
-
-[22:08][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:08][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:08][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:08][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[22:08][28.07.2025][Quest] - Searching for quest with ID: 1
-
-[22:09][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:09][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:09][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:09][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[22:09][28.07.2025][Quest] - Searching for quest with ID: 1
-
-[22:09][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:09][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:09][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:09][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[22:09][28.07.2025][Quest] - Searching for quest with ID: 1
-
-[22:10][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:10][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:10][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:10][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[22:10][28.07.2025][Quest] - Searching for quest with ID: 1
-[22:10][28.07.2025][Quest] - Quest found: Kill 10 wild rabbits (ID: 1)
-[22:10][28.07.2025][Quest] - Quest Kill 10 wild rabbits created with type collect.
-
-[22:11][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:11][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:11][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:11][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[22:11][28.07.2025][Quest] - Searching for quest with ID: 1
-[22:11][28.07.2025][Quest] - Quest found: Kill 10 wild rabbits (ID: 1)
-[22:11][28.07.2025][Quest] - Quest Kill 10 wild rabbits created with type <class 'type'>.
-
-[22:14][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:14][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:14][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:14][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[22:14][28.07.2025][Quest] - Searching for quest with ID: 1
-[22:14][28.07.2025][Quest] - Quest found: Kill 10 wild rabbits (ID: 1)
-[22:14][28.07.2025][Quest] - Quest Kill 10 wild rabbits created with type kill.
-
-[22:14][28.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
-[22:14][28.07.2025][Player] - Gracz Steve został stworzony.
-[22:14][28.07.2025][Monster] - Monster Forest Wolf created with level 3.
-[22:14][28.07.2025][Quest] - Loading quests from assets/quests.json.
-[22:14][28.07.2025][Quest] - Searching for quest with ID: 2
-[22:14][28.07.2025][Quest] - Quest found: Collect 5 bandages (ID: 2)
-[22:14][28.07.2025][Quest] - Quest Collect 5 bandages created with type collect.
+[00:51][29.07.2025][Save] - Wczytano dane gracza z pliku: saves/player_save.json
+[00:51][29.07.2025][Player] - Gracz Steve został stworzony.
+[00:51][29.07.2025][Monster] - Monster Forest Wolf created with level 3.
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 65
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 116
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 50
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 111
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 35
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 106
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 20
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 101
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: 5
+[00:51][29.07.2025][Player] - Zmieniono zdrowie gracza na: 96
+[00:51][29.07.2025][Monster] - Zmieniono zdrowie Forest Wolf na: -10
+[00:51][29.07.2025][Fight] - Steve wygrał walkę z Forest Wolf w 6 rundach!
+[00:51][29.07.2025][Fight] - Item Bandage dropped from monster Forest Wolf.
+[00:51][29.07.2025][Inventory] - Item Bandage is already at max quantity. Item added to new slot.
+[00:51][29.07.2025][Inventory] - Item Bandage is already at max quantity. Item added to new slot.
+[00:51][29.07.2025][Inventory] - Item added to inventory: Bandage
+[00:51][29.07.2025][Player] - Dodano 40 doświadczenia do gracza Steve.
+[00:51][29.07.2025][Player] - Dodano 20 do stanu konta gracza Steve. Nowy stan konta: 20
