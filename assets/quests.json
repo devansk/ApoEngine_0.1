@@ -1,0 +1,35 @@
+[
+        {
+            "id": 1,
+            "name": "Kill 10 wild rabbits",
+            "description": "Hunt down and kill 10 wild rabbits in the forest to help the local community.",
+            "balance": 10,
+            "is_completed": false,
+            "is_active": true,
+            "xp": 50,
+            "items": [1],
+            "type": "kill"            
+        },
+        {
+            "id": 2,
+            "name": "Collect 5 bandages",
+            "description": "Gather 5 bandages from the medical supplies in the abandoned hospital.",
+            "balance": 5,
+            "is_completed": false,
+            "is_active": true,
+            "xp": 30,
+            "items": [2],
+            "type": "collect"
+        },
+        {
+            "id": 3,
+            "name": "Find the lost artifact",
+            "description": "Locate and retrieve the ancient artifact hidden in the ruins.",
+            "balance": 15,
+            "is_completed": false,
+            "is_active": true,
+            "xp": 100,
+            "items": [3],
+            "type": "find"
+        }
+]

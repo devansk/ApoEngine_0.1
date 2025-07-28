@@ -1,0 +1,42 @@
+[
+        {   
+            "id": 0,
+            "name": "Bandage",
+            "type": "healing",
+            "healing_amount": 20,
+            "quantity": 5,
+            "max_quantity": 10,
+            "price": 10,
+            "price_sell": 5,
+            "durability": 100,
+            "description": "A simple bandage to stop bleeding.",
+            "drop_chance": 0.3
+        },
+        {
+            "id": 1,
+            "name": "Pistol",
+            "type": "weapon",
+            "damage": 10,
+            "critical_hit_chance": 0.1,
+            "quantity": 1,
+            "max_quantity": 1,
+            "price": 100,
+            "price_sell": 50,
+            "durability": 100,
+            "description": "A standard issue pistol.",
+            "drop_chance": 0  
+        },
+        {   "id": 2,
+            "name": "Raw rabbit meat",
+            "type": "food",
+            "healing_amount": 5,
+            "quantity": 1,
+            "max_quantity": 5,
+            "price": 2,
+            "price_sell": 1,
+            "durability": 100,
+            "description": "Raw meat from a wild rabbit.",
+            "drop_chance": 0.2
+        }
+
+    ]

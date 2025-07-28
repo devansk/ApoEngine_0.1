@@ -1,0 +1,48 @@
+[
+        {
+            "id": 0,
+            "name": "Wild Rabbit",
+            "type": "monster",
+            "health": 50,
+            "health_max": 50,
+            "level": 1,
+            "experience": 20,
+            "balance": 10,
+            "attack": 5,
+            "defense": 2,
+            "description": "A healthy rabbit, not very dangerous.",
+            "drop_chance": 0.2
+
+        },
+        {
+            "id": 1,
+            "name": "Forest Wolf",
+            "type": "monster",
+            "health": 80,
+            "health_max": 80,
+            "level": 3,
+            "experience": 40,
+            "balance": 20,
+            "attack": 10,
+            "defense": 5,
+            "description": "A fierce wolf that hunts in packs.",
+            "drop_chance": 0.3,
+            "drop_items": [0,1]
+        },
+        {
+            "id": 2,
+            "name": "Mountain Troll",
+            "type": "monster",
+            "health": 150,
+            "health_max": 150,
+            "level": 4,
+            "experience": 100,
+            "balance": 50,
+            "attack": 20,
+            "defense": 10,
+            "description": "A large and powerful troll that dwells in the mountains.",
+            "drop_chance": 0.1,
+            "drop_items": [0,2]
+        }
+
+    ]

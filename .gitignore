@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+*.egg
+*.log
+*.sqlite3
+*.db
+*.DS_Store
+.env
+.venv/
+venv/
+ENV/
+.envrc
+.idea/
+.vscode/
+assets/*.bak
+assets/*.tmp
+assets/*.log
+# System
+Thumbs.db
+.DS_Store
+# Test
+coverage.xml
+htmlcov/
+.tox/
+.pytest_cache/
+# Jupyter
+.ipynb_checkpoints/
+# Misc
+*.swp
+*.swo
+*.bak
+*.tmp
+*.orig
+# Ignore user data
+user_data.json
