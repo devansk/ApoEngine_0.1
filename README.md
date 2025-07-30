@@ -1,4 +1,4 @@
-# ApoEngine - Silnik gry tekstowej ☢️🧟‍♂️
+# ApoEngine One - Silnik gry tekstowej ☢️🧟‍♂️
 30.07.2025
 
 ## Opis projektu
