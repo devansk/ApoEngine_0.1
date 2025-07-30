@@ -17,6 +17,9 @@ Projekt "ApoEngine" to silnik gry tekstowej RPG, w którym gracz wciela się w p
 - 📦 Wczytywanie przedmiotów z pliku JSON
 - 🧪 Obsługa różnych typów przedmiotów (np. broń, mikstury)
 - 🔍 Wyszukiwanie przedmiotów po ID i typie
+- 🎲 Obsługa dropu przedmiotów i szansy na drop
+
+
 
 ### 🎒 Klasa Ekwipunek (Inventory)
 - 💾 Wczytywanie i zapisywanie stanu ekwipunku do pliku
@@ -33,6 +36,7 @@ Projekt "ApoEngine" to silnik gry tekstowej RPG, w którym gracz wciela się w p
 ### ⚔️ Klasa Walka (Fight)
 - 🤼‍♂️ Wstępna obsługa walki między graczem a potworem
 - 💥 System obrażeń, ataku, obrony
+- 🎲 Obsługa dropu przedmiotów i szansy na drop
 
 ### 📜 Klasa Zadania (Quests)
 - 📂 Wczytywanie i obsługa zadań z pliku JSON
