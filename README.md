@@ -1,4 +1,4 @@
-# Postapo - Silnik gry tekstowej ☢️🧟‍♂️
+# ApoEngine - Silnik gry tekstowej ☢️🧟‍♂️
 30.07.2025
 
 ## Opis projektu
