@@ -31,7 +31,7 @@ Projekt "Postapo" to silnik gry tekstowej RPG, w którym gracz wciela się w pos
 
 ### ⚔️ Klasa Walka (Fight)
 - 🤼‍♂️ Wstępna obsługa walki między graczem a potworem
-- 💥 System obrażeń, ataku, obrony
+- 💥 System obrażeń, ataku, obrony, dropu
 
 ### 📜 Klasa Zadania (Quests)
 - 📂 Wczytywanie i obsługa zadań z pliku JSON
@@ -53,7 +53,7 @@ Projekt "Postapo" to silnik gry tekstowej RPG, w którym gracz wciela się w pos
 - `core/` - logika gry (gracz, ekwipunek, przedmioty, potwory, walka, zadania)
 - `assets/` - pliki danych (przedmioty, potwory, zadania)
 - `saves/` - zapisy gry i ekwipunku
-- `misc/` - logowanie i inne narzędzia
+- `misc/` - logger i inne narzędzia
 
 ## 🚀 Uruchomienie
 1. 🐍 Upewnij się, że masz Pythona 3.8+.
