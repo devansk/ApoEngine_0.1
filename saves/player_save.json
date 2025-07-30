@@ -1,0 +1,13 @@
+{
+    "name": "Steve",
+    "health": 121,
+    "health_max": 121,
+    "level": 3,
+    "experience": 70,
+    "experience_need": 169,
+    "balance": 0,
+    "attack": 20,
+    "defense": 5,
+    "damage": 10,
+    "critical_hit_chance": 0.1
+}
